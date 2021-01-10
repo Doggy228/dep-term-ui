@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+export GOOGLE_API_KEY="no"
+export GOOGLE_DEFAULT_CLIENT_ID="no"
+export GOOGLE_DEFAULT_CLIENT_SECRET="no"
+/Users/som/prj/somsys/irondesk/irondesk-term/.tmp/chrome-mac/Chromium.app/Contents/MacOS/Chromium --kiosk --kiosk-printing --incognito --noerrdialogs --disable-translate --window-size="1280x1024" "file:///Users/som/prj/somsys/irondesk/irondesk-winner/iron-desk-winner-termui/ui/index.html"
